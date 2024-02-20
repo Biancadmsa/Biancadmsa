@@ -14,7 +14,7 @@
 
 <h3 align="left">Contacto:</h3>
    <ul>
-       <li>Phone:+56983116565</li>
+       <li>Phone:+56983116845</li>
         <li><a href="mailto:bdmsa12@gmail.com">bdmsa12@gmail.com</a></li>
         <li><a href="https://www.linkedin.com/in/biancasalcedodev">https://www.linkedin.com/in/biancasalcedodev</a></li>
         <li><a href="https://github.com/Biancadmsa">https://github.com/Biancadmsa</a></li>
