@@ -1,5 +1,9 @@
 <div id="header">
-<h1 align="center">Hola 👋, Soy Bianca Salcedo</h1> 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=35&lines=Hola!+Soy+Bianca+Salcedo!..." alt="Typing SVG" />
+  </a>
+</p>
 <p align="center">
   <img src="https://media4.giphy.com/media/iYVneIXJQ3jdJLkZmM/giphy.gif?cid=ecf05e477symnbn4p8mthcywousjzesa285wpltihdozo70s&ep=v1_gifs_related&rid=giphy.gif&ct=g" height="250px" alt="Hello there gif"/>
   <br/>
@@ -9,13 +13,20 @@
 </p>
 </div>
 
-
 ___
 
 
-<h3 align="center">Desarrolladora Full Stack</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF00FF&size=30&lines=Soy+Developer+Full+Stack..." alt="Typing SVG" />
+  </a>
+</p>
+ <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> 
 
-<h3 align="left">Contacto:</h3>
+
+
+<h3 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 30px;">Contactame🤝 :</h3>
+
    <ul>
        <li>Phone:+56983116845</li>
         <li><a href="mailto:bdmsa12@gmail.com">bdmsa12@gmail.com</a></li>
@@ -23,12 +34,15 @@ ___
         <li><a href="https://github.com/Biancadmsa">https://github.com/Biancadmsa</a></li>
     </ul>
 </ul>
+</br>
 
 ___
 
 
-<h3 align="left">Languajes y Herramientas:</h3>
+<h3 align="left"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Lenguajes y Herramientas:</h3>
+
 </br>
+
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -66,8 +80,13 @@ ___
 ![](  https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](  https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![](  https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+</br>
+
 ___
+
 <br/>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biancadmsa"/>
 </div>
