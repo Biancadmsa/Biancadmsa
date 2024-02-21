@@ -1,14 +1,17 @@
-<div>
+<div id="header">
 <h1 align="center">Hola 👋, Soy Bianca Salcedo</h1> 
 <p align="center">
   <img src="https://media4.giphy.com/media/iYVneIXJQ3jdJLkZmM/giphy.gif?cid=ecf05e477symnbn4p8mthcywousjzesa285wpltihdozo70s&ep=v1_gifs_related&rid=giphy.gif&ct=g" height="250px" alt="Hello there gif"/>
   <br/>
-  
   <a href="https://www.linkedin.com/in/biancasalcedodev" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 </div>
+
+
+___
+
 
 <h3 align="center">Desarrolladora Full Stack</h3>
 
@@ -21,7 +24,8 @@
     </ul>
 </ul>
 
-</br>
+___
+
 
 <h3 align="left">Languajes y Herramientas:</h3>
 </br>
@@ -43,7 +47,6 @@
 </p>
 
 
-</br>
 
 ![](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -63,7 +66,7 @@
 ![](  https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](  https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![](  https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
+___
 <br/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biancadmsa"/>
