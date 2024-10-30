@@ -21,7 +21,7 @@ ___
     <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF00FF&size=30&lines=Soy+Developer+Full+Stack..." alt="Typing SVG" />
   </a>
 </p>
- <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> 
+
 
 <h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 30px;">Contactame🤝 :</h2>
 
